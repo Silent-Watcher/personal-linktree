@@ -2,7 +2,7 @@
 
 # Personal linktree
 
-[![Star this project](https://img.shields.io/badge/-⭐%20Star%20this%20project-yellow?style=for-the-badge)](https://github.com/Silent-Watcher/fileUploader)
+[![Star this project](https://img.shields.io/badge/-⭐%20Star%20this%20project-yellow?style=for-the-badge)](https://github.com/Silent-Watcher/personal-linktree)
 
 
 ## License 🔐
